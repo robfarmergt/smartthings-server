@@ -1,0 +1,24 @@
+{
+  "name": "smartthings-server",
+  "version": "0.0.1",
+  "description": "SmartThings server to reveive events from a SmartThings hub.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robfarmergt/smartthings-server.git"
+  },
+  "keywords": [
+    "smartthings",
+    "robfarmergt"
+  ],
+  "license": "MIT"
+}
